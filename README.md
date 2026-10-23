@@ -8,7 +8,7 @@ local sam = {
 
   interests = {
       "AI agent orchestration",
-      "AI agents & developer tooling",
+      "developer tooling",
       "AI memory",
   },
 
