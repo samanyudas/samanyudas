@@ -2,10 +2,17 @@
 -- ~/whoami
 
 local sam = {
-  role = "final year student / ex-operations & data science intern",
-  company = "adnoc offshore (ex) → tbd (hunting)",
+  role = "final-year computer science & finance student",
+  previously = "operations & data science @ ADNOC Offshore",
   location = "adelaide, au",
-  languages = { "python", "c", "c++" },
+
+  interests = {
+      "AI agent orchestration",
+      "AI agents & developer tooling",
+      "AI memory",
+  },
+
+  languages = { "python", "c", "c++", "swift" },
   editor = "neovim",
 }
 ```
