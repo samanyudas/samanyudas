@@ -6,10 +6,6 @@ local sam = {
   previously = "operations & data science @ ADNOC Offshore",
   location = "adelaide, au",
 
-  building = {
-    miri = "scrolling window manager for macOS",
-  },
-
   contributing = {
     "pnpm/pnpm",
     "e2e-inc/e2e",
