@@ -21,7 +21,7 @@ local sam = {
   },
 
   languages = { "typescript", "rust", "swift", "python", "c", "c++" },
-  editor = "neovim",
+  editor = "t3 code",
   os = { "omarchy", "macOS" },
 }
 ```
