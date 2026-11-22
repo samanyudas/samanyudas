@@ -20,7 +20,6 @@ local sam = {
     "window managers",
   },
 
-  languages = { "typescript", "rust", "swift", "python", "c", "c++" },
   editor = "t3 code",
   os = { "omarchy", "macOS" },
 }
